@@ -46,7 +46,7 @@ CS + Cyber Operations Honors @ UT San Antonio | CCNA | CompTIA Security+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=William-Chen07&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=William-Chen07&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="stats" />
 </p>
 
 ### 📈 Contribution Graph
